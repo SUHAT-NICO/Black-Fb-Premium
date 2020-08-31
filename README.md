@@ -1,7 +1,0 @@
-- pkg update
-- pkg upgrade
-- pkg install python2 git -y
-- git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium.git
-- cd Black-Fb-Premium
-- pip2 install -r req.txt
-- python2 BlackFbPremium.py
